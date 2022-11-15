@@ -1,0 +1,10 @@
+iframe {
+  width: 99.9%;
+  height: 800px;
+  clip-path: inset(8% 0 0 0.05%);
+}
+iframe {
+  position: absolute;
+  top: -65px;
+  left: 0px;
+}
